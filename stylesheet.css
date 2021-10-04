@@ -1,14 +1,18 @@
 .center{
-  width:1000px;
+  background-color:#f5f5f5;
+  margin:0 20px;
+  padding:0 50px;
 }
 
 .title {
-  color:#ff0000;
+  background-color:#ff4500;
+  width: 100%;
+  display: inline;
 }
 
 .q{
   border:1px solid #000000;
-  margin-bottom:20px;
+  margin:0 auto 20px auto;
 }
 
 h2{
