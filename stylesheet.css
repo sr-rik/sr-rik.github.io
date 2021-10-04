@@ -2,10 +2,10 @@
     color: #02ccba;
   }
 
-.toi{
-    color:red;
-  }
-
 .item{
     background-color:yellow;
+  }
+
+.toi{
+    font-color:red;
   }
