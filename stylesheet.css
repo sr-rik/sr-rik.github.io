@@ -1,11 +1,25 @@
+.center{
+  width:1000px;
+}
+
 .title {
   color:#ff0000;
 }
 
-.item{
+.q{
+  border:1px solid #000000;
+  margin-bottom:20px;
+}
+
+h2{
+  border-bottom:2px solid #000000;
+  width: 70px;
+}
+
+.item1{
   background-color:yellow;
 }
 
-.toi{
+.toi1{
   color:#ff0000;
 }
