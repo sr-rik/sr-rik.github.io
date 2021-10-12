@@ -1,29 +1,50 @@
-.center{
-  background-color:#f5f5f5;
-  margin:0 20px;
-  padding:0 50px;
+.top{
+  background-image:url(https://cdn.pixabay.com/photo/2017/07/07/12/31/lime-2481346__480.jpg);
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 150px;
+  text-align: center;
 }
 
-.title {
-  background-color:#ff4500;
-  width: 100%;
-  display: inline;
+.center{
+  margin:0 auto;
+  width: 1000px;
+}
+
+.subheading{
+  font-size: 20px;
+  margin: 7px 0;
+}
+
+.borderline{
+  margin-top: 20px;
+  border-bottom: 1px solid rgb(170, 170, 170);
+}
+
+.mainback{
+  text-align: center;
+  background-image: url(https://cdn.pixabay.com/photo/2019/03/05/01/59/spring-background-4035402_1280.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.toi-center{
+  background-color: #f5f5f5;
+  width: 1000px;
+  margin:0px auto;  
 }
 
 .q{
-  border:1px solid #000000;
-  margin:0 auto 20px auto;
-}
-
-h2{
-  border-bottom:2px solid #000000;
-  width: 70px;
+  border-bottom: 1px solid rgb(219, 219, 219);
+  padding-bottom: 40px;
 }
 
 .item{
-  background-color:yellow;
+  background-color: #ffff00;
+  font-weight: bold ;
 }
 
 .toi{
-  color:#ff0000;
+  color: #ff0000;
+  font-weight: bold ;
 }
