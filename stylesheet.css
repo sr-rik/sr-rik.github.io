@@ -1,5 +1,5 @@
 .top{
-  background-image:url(harowin2.png);
+  background-image:url(aki1.jpg);
   background-size: cover;
   background-color:rgba(255,255,255,0.3);
   /*background-blend-mode:lighten;*/
@@ -11,7 +11,6 @@
 .center{
   margin:0 auto;
   width: 1000px;
-  color: aliceblue;
 }
 
 .subheading{
@@ -26,7 +25,7 @@
 
 .mainback{
   text-align: center;
-  background-image: url(haromin1.png);
+  background-image: url(aki2.jpg);
   background-attachment: fixed;
   background-color:rgba(255,255,255,0.3);
   background-blend-mode:lighten;
