@@ -2,7 +2,7 @@
   background-image:url(aki1.jpg);
   background-size: cover;
   background-color:rgba(255,255,255,0.3);
-  /*background-blend-mode:lighten;*/
+  background-blend-mode:lighten;
   padding-top: 100px;
   padding-bottom: 150px;
   text-align: center;
